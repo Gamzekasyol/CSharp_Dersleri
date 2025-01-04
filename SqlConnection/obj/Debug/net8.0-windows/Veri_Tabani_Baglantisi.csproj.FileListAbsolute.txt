@@ -1,0 +1,6 @@
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\SqlConnection\obj\Debug\net8.0-windows\SqlConnection.Form1.resources
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\SqlConnection\obj\Debug\net8.0-windows\Veri_Tabani_Baglantisi.csproj.GenerateResource.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\SqlConnection\obj\Debug\net8.0-windows\Veri_Tabani_Baglantisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\SqlConnection\obj\Debug\net8.0-windows\Veri_Tabani_Baglantisi.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\SqlConnection\obj\Debug\net8.0-windows\Veri_Tabani_Baglantisi.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\SqlConnection\obj\Debug\net8.0-windows\Veri_Tabani_Baglantisi.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\DegişkenlerVeVeriTipleri\bin\Debug\net8.0-windows\DegişkenlerVeVeriTipleri.exe
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\DegişkenlerVeVeriTipleri\bin\Debug\net8.0-windows\DegişkenlerVeVeriTipleri.deps.json
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\DegişkenlerVeVeriTipleri\bin\Debug\net8.0-windows\DegişkenlerVeVeriTipleri.runtimeconfig.json
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\DegişkenlerVeVeriTipleri\bin\Debug\net8.0-windows\DegişkenlerVeVeriTipleri.dll
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\DegişkenlerVeVeriTipleri\bin\Debug\net8.0-windows\DegişkenlerVeVeriTipleri.pdb
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\DegişkenlerVeVeriTipleri\obj\Debug\net8.0-windows\DegişkenlerVeVeriTipleri.Form1.resources
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\DegişkenlerVeVeriTipleri\obj\Debug\net8.0-windows\DegişkenlerVeVeriTipleri.csproj.GenerateResource.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\DegişkenlerVeVeriTipleri\obj\Debug\net8.0-windows\DegişkenlerVeVeriTipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\DegişkenlerVeVeriTipleri\obj\Debug\net8.0-windows\DegişkenlerVeVeriTipleri.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\DegişkenlerVeVeriTipleri\obj\Debug\net8.0-windows\DegişkenlerVeVeriTipleri.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\DegişkenlerVeVeriTipleri\obj\Debug\net8.0-windows\DegişkenlerVeVeriTipleri.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\DegişkenlerVeVeriTipleri\obj\Debug\net8.0-windows\DegişkenlerVeVeriTipleri.dll
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\DegişkenlerVeVeriTipleri\obj\Debug\net8.0-windows\refint\DegişkenlerVeVeriTipleri.dll
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\DegişkenlerVeVeriTipleri\obj\Debug\net8.0-windows\DegişkenlerVeVeriTipleri.pdb
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\DegişkenlerVeVeriTipleri\obj\Debug\net8.0-windows\DegişkenlerVeVeriTipleri.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\DegişkenlerVeVeriTipleri\obj\Debug\net8.0-windows\ref\DegişkenlerVeVeriTipleri.dll

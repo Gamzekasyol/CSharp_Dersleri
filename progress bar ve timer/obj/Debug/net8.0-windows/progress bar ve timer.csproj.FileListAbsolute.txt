@@ -1,0 +1,16 @@
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\progress bar ve timer\bin\Debug\net8.0-windows\progress bar ve timer.exe
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\progress bar ve timer\bin\Debug\net8.0-windows\progress bar ve timer.deps.json
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\progress bar ve timer\bin\Debug\net8.0-windows\progress bar ve timer.runtimeconfig.json
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\progress bar ve timer\bin\Debug\net8.0-windows\progress bar ve timer.dll
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\progress bar ve timer\bin\Debug\net8.0-windows\progress bar ve timer.pdb
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\progress bar ve timer\obj\Debug\net8.0-windows\progress_bar_ve_timer.Form1.resources
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\progress bar ve timer\obj\Debug\net8.0-windows\progress bar ve timer.csproj.GenerateResource.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\progress bar ve timer\obj\Debug\net8.0-windows\progress bar ve timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\progress bar ve timer\obj\Debug\net8.0-windows\progress bar ve timer.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\progress bar ve timer\obj\Debug\net8.0-windows\progress bar ve timer.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\progress bar ve timer\obj\Debug\net8.0-windows\progress bar ve timer.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\progress bar ve timer\obj\Debug\net8.0-windows\progress bar ve timer.dll
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\progress bar ve timer\obj\Debug\net8.0-windows\refint\progress bar ve timer.dll
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\progress bar ve timer\obj\Debug\net8.0-windows\progress bar ve timer.pdb
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\progress bar ve timer\obj\Debug\net8.0-windows\progress bar ve timer.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\progress bar ve timer\obj\Debug\net8.0-windows\ref\progress bar ve timer.dll

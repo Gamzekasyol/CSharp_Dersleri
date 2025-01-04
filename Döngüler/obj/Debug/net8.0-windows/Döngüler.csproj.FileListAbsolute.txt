@@ -1,0 +1,16 @@
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\Döngüler\bin\Debug\net8.0-windows\Döngüler.exe
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\Döngüler\bin\Debug\net8.0-windows\Döngüler.deps.json
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\Döngüler\bin\Debug\net8.0-windows\Döngüler.runtimeconfig.json
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\Döngüler\bin\Debug\net8.0-windows\Döngüler.dll
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\Döngüler\bin\Debug\net8.0-windows\Döngüler.pdb
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\Döngüler\obj\Debug\net8.0-windows\Döngüler.Form1.resources
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\Döngüler\obj\Debug\net8.0-windows\Döngüler.csproj.GenerateResource.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\Döngüler\obj\Debug\net8.0-windows\Döngüler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\Döngüler\obj\Debug\net8.0-windows\Döngüler.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\Döngüler\obj\Debug\net8.0-windows\Döngüler.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\Döngüler\obj\Debug\net8.0-windows\Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\Döngüler\obj\Debug\net8.0-windows\Döngüler.dll
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\Döngüler\obj\Debug\net8.0-windows\refint\Döngüler.dll
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\Döngüler\obj\Debug\net8.0-windows\Döngüler.pdb
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\Döngüler\obj\Debug\net8.0-windows\Döngüler.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\Döngüler\obj\Debug\net8.0-windows\ref\Döngüler.dll

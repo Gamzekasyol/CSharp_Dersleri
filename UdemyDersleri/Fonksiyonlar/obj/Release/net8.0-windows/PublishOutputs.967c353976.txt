@@ -1,0 +1,5 @@
+C:\Users\Gamze\OneDrive\Masaüstü\Fonksiyonlar.exe
+C:\Users\Gamze\OneDrive\Masaüstü\Fonksiyonlar.dll
+C:\Users\Gamze\OneDrive\Masaüstü\Fonksiyonlar.deps.json
+C:\Users\Gamze\OneDrive\Masaüstü\Fonksiyonlar.runtimeconfig.json
+C:\Users\Gamze\OneDrive\Masaüstü\Fonksiyonlar.pdb

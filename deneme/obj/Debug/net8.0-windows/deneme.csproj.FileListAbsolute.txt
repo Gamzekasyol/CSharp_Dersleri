@@ -1,0 +1,16 @@
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\deneme\bin\Debug\net8.0-windows\deneme.exe
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\deneme\bin\Debug\net8.0-windows\deneme.deps.json
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\deneme\bin\Debug\net8.0-windows\deneme.runtimeconfig.json
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\deneme\bin\Debug\net8.0-windows\deneme.dll
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\deneme\bin\Debug\net8.0-windows\deneme.pdb
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\deneme\obj\Debug\net8.0-windows\deneme.Form1.resources
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\deneme\obj\Debug\net8.0-windows\deneme.csproj.GenerateResource.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\deneme\obj\Debug\net8.0-windows\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\deneme\obj\Debug\net8.0-windows\deneme.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\deneme\obj\Debug\net8.0-windows\deneme.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\deneme\obj\Debug\net8.0-windows\deneme.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\deneme\obj\Debug\net8.0-windows\deneme.dll
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\deneme\obj\Debug\net8.0-windows\refint\deneme.dll
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\deneme\obj\Debug\net8.0-windows\deneme.pdb
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\deneme\obj\Debug\net8.0-windows\deneme.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\deneme\obj\Debug\net8.0-windows\ref\deneme.dll

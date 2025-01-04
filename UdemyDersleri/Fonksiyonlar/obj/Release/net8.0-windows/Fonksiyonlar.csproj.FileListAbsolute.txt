@@ -1,0 +1,16 @@
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\Fonksiyonlar\bin\Release\net8.0-windows\Fonksiyonlar.exe
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\Fonksiyonlar\bin\Release\net8.0-windows\Fonksiyonlar.deps.json
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\Fonksiyonlar\bin\Release\net8.0-windows\Fonksiyonlar.runtimeconfig.json
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\Fonksiyonlar\bin\Release\net8.0-windows\Fonksiyonlar.dll
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\Fonksiyonlar\bin\Release\net8.0-windows\Fonksiyonlar.pdb
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\Fonksiyonlar\obj\Release\net8.0-windows\Fonksiyonlar.Form1.resources
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\Fonksiyonlar\obj\Release\net8.0-windows\Fonksiyonlar.csproj.GenerateResource.cache
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\Fonksiyonlar\obj\Release\net8.0-windows\Fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\Fonksiyonlar\obj\Release\net8.0-windows\Fonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\Fonksiyonlar\obj\Release\net8.0-windows\Fonksiyonlar.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\Fonksiyonlar\obj\Release\net8.0-windows\Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\Fonksiyonlar\obj\Release\net8.0-windows\Fonksiyonlar.dll
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\Fonksiyonlar\obj\Release\net8.0-windows\refint\Fonksiyonlar.dll
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\Fonksiyonlar\obj\Release\net8.0-windows\Fonksiyonlar.pdb
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\Fonksiyonlar\obj\Release\net8.0-windows\Fonksiyonlar.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\Fonksiyonlar\obj\Release\net8.0-windows\ref\Fonksiyonlar.dll

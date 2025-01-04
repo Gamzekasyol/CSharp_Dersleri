@@ -1,0 +1,16 @@
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\bool\obj\Debug\net8.0-windows\bool_.Form1.resources
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\bool\obj\Debug\net8.0-windows\bool_.csproj.GenerateResource.cache
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\bool\obj\Debug\net8.0-windows\bool_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\bool\obj\Debug\net8.0-windows\bool_.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\bool\obj\Debug\net8.0-windows\bool_.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\bool\obj\Debug\net8.0-windows\bool_.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\bool\bin\Debug\net8.0-windows\bool_.exe
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\bool\bin\Debug\net8.0-windows\bool_.deps.json
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\bool\bin\Debug\net8.0-windows\bool_.runtimeconfig.json
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\bool\bin\Debug\net8.0-windows\bool_.dll
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\bool\bin\Debug\net8.0-windows\bool_.pdb
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\bool\obj\Debug\net8.0-windows\bool_.dll
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\bool\obj\Debug\net8.0-windows\refint\bool_.dll
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\bool\obj\Debug\net8.0-windows\bool_.pdb
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\bool\obj\Debug\net8.0-windows\bool_.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\bool\obj\Debug\net8.0-windows\ref\bool_.dll

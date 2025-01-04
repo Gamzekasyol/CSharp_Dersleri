@@ -1,0 +1,5 @@
+C:\Users\Gamze\OneDrive\Masaüstü\Yeni klasör\Array.exe
+C:\Users\Gamze\OneDrive\Masaüstü\Yeni klasör\Array.dll
+C:\Users\Gamze\OneDrive\Masaüstü\Yeni klasör\Array.deps.json
+C:\Users\Gamze\OneDrive\Masaüstü\Yeni klasör\Array.runtimeconfig.json
+C:\Users\Gamze\OneDrive\Masaüstü\Yeni klasör\Array.pdb

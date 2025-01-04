@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ınheritance02_helikopter/1.0.0": {
+        "runtime": {
+          "ınheritance02_helikopter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ınheritance02_helikopter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

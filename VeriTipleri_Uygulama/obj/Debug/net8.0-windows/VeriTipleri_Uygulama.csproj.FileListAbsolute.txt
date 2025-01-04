@@ -1,0 +1,17 @@
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\VeriTipleri_Uygulama\bin\Debug\net8.0-windows\VeriTipleri_Uygulama.exe
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\VeriTipleri_Uygulama\bin\Debug\net8.0-windows\VeriTipleri_Uygulama.deps.json
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\VeriTipleri_Uygulama\bin\Debug\net8.0-windows\VeriTipleri_Uygulama.runtimeconfig.json
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\VeriTipleri_Uygulama\bin\Debug\net8.0-windows\VeriTipleri_Uygulama.dll
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\VeriTipleri_Uygulama\bin\Debug\net8.0-windows\VeriTipleri_Uygulama.pdb
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\VeriTipleri_Uygulama\obj\Debug\net8.0-windows\VeriTipleri_Uygulama.Form1.resources
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\VeriTipleri_Uygulama\obj\Debug\net8.0-windows\VeriTipleri_Uygulama.csproj.GenerateResource.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\VeriTipleri_Uygulama\obj\Debug\net8.0-windows\VeriTipleri_Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\VeriTipleri_Uygulama\obj\Debug\net8.0-windows\VeriTipleri_Uygulama.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\VeriTipleri_Uygulama\obj\Debug\net8.0-windows\VeriTipleri_Uygulama.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\VeriTipleri_Uygulama\obj\Debug\net8.0-windows\VeriTipleri_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\VeriTipleri_Uygulama\obj\Debug\net8.0-windows\VeriTipleri_Uygulama.dll
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\VeriTipleri_Uygulama\obj\Debug\net8.0-windows\refint\VeriTipleri_Uygulama.dll
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\VeriTipleri_Uygulama\obj\Debug\net8.0-windows\VeriTipleri_Uygulama.pdb
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\VeriTipleri_Uygulama\obj\Debug\net8.0-windows\VeriTipleri_Uygulama.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\VeriTipleri_Uygulama\obj\Debug\net8.0-windows\ref\VeriTipleri_Uygulama.dll
+C:\Users\Gamze\source\repos\Youtube_C#Giriş\VeriTipleri_Uygulama\obj\Debug\net8.0-windows\VeriTipleri_Uygulama.Properties.Resources.resources

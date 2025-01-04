@@ -1,0 +1,17 @@
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\ınheritance02_helikopter\bin\Debug\net8.0-windows\ınheritance02_helikopter.exe
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\ınheritance02_helikopter\bin\Debug\net8.0-windows\ınheritance02_helikopter.deps.json
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\ınheritance02_helikopter\bin\Debug\net8.0-windows\ınheritance02_helikopter.runtimeconfig.json
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\ınheritance02_helikopter\bin\Debug\net8.0-windows\ınheritance02_helikopter.dll
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\ınheritance02_helikopter\bin\Debug\net8.0-windows\ınheritance02_helikopter.pdb
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\ınheritance02_helikopter\obj\Debug\net8.0-windows\ınheritance02_helikopter.helikopter.resources
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\ınheritance02_helikopter\obj\Debug\net8.0-windows\ınheritance02_helikopter.Properties.Resources.resources
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\ınheritance02_helikopter\obj\Debug\net8.0-windows\ınheritance02_helikopter.csproj.GenerateResource.cache
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\ınheritance02_helikopter\obj\Debug\net8.0-windows\ınheritance02_helikopter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\ınheritance02_helikopter\obj\Debug\net8.0-windows\ınheritance02_helikopter.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\ınheritance02_helikopter\obj\Debug\net8.0-windows\ınheritance02_helikopter.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\ınheritance02_helikopter\obj\Debug\net8.0-windows\ınheritance02_helikopter.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\ınheritance02_helikopter\obj\Debug\net8.0-windows\ınheritance02_helikopter.dll
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\ınheritance02_helikopter\obj\Debug\net8.0-windows\refint\ınheritance02_helikopter.dll
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\ınheritance02_helikopter\obj\Debug\net8.0-windows\ınheritance02_helikopter.pdb
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\ınheritance02_helikopter\obj\Debug\net8.0-windows\ınheritance02_helikopter.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\udemyC#_YazilimTeknolojileri\ınheritance02_helikopter\obj\Debug\net8.0-windows\ref\ınheritance02_helikopter.dll
